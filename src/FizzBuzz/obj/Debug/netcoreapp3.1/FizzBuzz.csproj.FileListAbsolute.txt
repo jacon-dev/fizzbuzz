@@ -1,0 +1,13 @@
+C:\Code\C# Exercises\FizzBuzz\src\fizzbuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+C:\Code\C# Exercises\FizzBuzz\src\fizzbuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+C:\Code\C# Exercises\FizzBuzz\src\fizzbuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+C:\Code\C# Exercises\FizzBuzz\src\fizzbuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+C:\Code\C# Exercises\FizzBuzz\src\fizzbuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Code\C# Exercises\FizzBuzz\src\fizzbuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Code\C# Exercises\FizzBuzz\src\fizzbuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+C:\Code\C# Exercises\FizzBuzz\src\fizzbuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Code\C# Exercises\FizzBuzz\src\fizzbuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+C:\Code\C# Exercises\FizzBuzz\src\fizzbuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Code\C# Exercises\FizzBuzz\src\fizzbuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Code\C# Exercises\FizzBuzz\src\fizzbuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Code\C# Exercises\FizzBuzz\src\fizzbuzz\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache
