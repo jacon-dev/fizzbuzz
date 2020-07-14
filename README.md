@@ -1,5 +1,4 @@
-# fizzbuzz
-Repository for my FizzBuzz code
+# FizzBuzz : The Bland Interview
 FizzBuzz is one of the most common technical interview exercises I've seen during my career. 
 As such I wanted to show my workings on it, including all the stages up to the existing code (i.e. what works and is quick and dirty).
 
